@@ -1,0 +1,56 @@
+#background{
+	width : 30%;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+#question {	
+	border-radius: 25px;
+    background: #8AC007;
+    padding: 20px; 
+    width: 200px;
+    height: 550px;
+
+    position: absolute;
+    right: 920px
+}
+
+#question2, #question2, #question3, #question4, #question5{
+	display: none;
+}
+
+#a2, #a3, #a4, #a5{
+display: none;
+} 
+
+#answerbox{
+	border-radius: 25px;
+    background: #8AC007;
+    padding: 20px; 
+    width: 200px;
+    height: 550px;
+
+	position: absolute;
+    left: 920px;
+}
+
+#image{
+
+	border-radius: 25px;
+    background: red;
+    padding: 20px; 
+    width: 200px;
+    height: 350px;
+
+	position: absolute;
+	top: 100px;
+}
+#submit{
+	position: absolute;
+    top: 620px;
+}
+
+#view{
+	position: absolute;
+    top: 520px;
+}
